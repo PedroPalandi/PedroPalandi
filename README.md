@@ -4,7 +4,7 @@ Como comecei este ano -->
 // ⚠️ Atenção: código altamente motivado por café ☕️
 
 const dev = {
-  nome: "Seu Nome",
+  nome: "Pedro Palandi",
   bugsCriados: Infinity,
   bugsResolvidos: Math.random() > 0.5 ? "Sim" : "Talvez",
   cafeConsumido: "Sempre insuficiente",
