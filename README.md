@@ -6,4 +6,4 @@ jogar,
 mexer no celular e
 assister televisão.
 
-
+ 
