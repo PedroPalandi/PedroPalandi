@@ -3,10 +3,10 @@ Sou aluno do Senai e estou aprendendo a programar e desenvolver sistemas. Como c
 
 ## O que eu gosto de fazer:
 
--Ir à igreja
--Jogar
--Mexer no celular
--Assistir Televisão
+- Ir à igreja
+- Jogar
+- Mexer no celular
+- Assistir Televisão
 
  
  
