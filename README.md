@@ -8,5 +8,12 @@ Sou aluno do Senai e estou aprendendo a programar e desenvolver sistemas. Como c
 - Mexer no celular
 - Assistir Televisão
 
+  ## Objetivos
+
+  - Me formar no SESI e SENAI
+  - Aprender mais sobre JavaScript e HTML
+  - Aprander novas linguagens de programação
+  - Virar Dev Junior
+
  
  
